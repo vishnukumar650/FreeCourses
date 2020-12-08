@@ -38,3 +38,11 @@
 [Freedom for Learning](https://freeallcourse.com/ "Freedom for Learning")
 
 [Ultimate Course Downloader](https://uploadcenter.com/users/coursedownloader "Ultimate Course Downloader")
+
+[Free Tutorials CA](https://www.freetutorials.ca/ "Free Tutorials CA")
+
+[Learning Crux](https://www.learningcrux.com/ "Learning Crux")
+
+[TUTFLIX](https://tutflix.org/ "TUTFLIX")
+
+[Free Download Courses](https://freedownloadcourses.xyz/ "Free Download Courses")
