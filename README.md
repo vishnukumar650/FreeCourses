@@ -46,3 +46,7 @@
 [TUTFLIX](https://tutflix.org/ "TUTFLIX")
 
 [Free Download Courses](https://freedownloadcourses.xyz/ "Free Download Courses")
+
+[PerfectMafia Courses](https://courses.perfectmafia.com/ "PerfectMafia Courses")
+
+[Course Mafia](https://coursemafia.com/ "Course Mafia")
