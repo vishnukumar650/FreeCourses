@@ -50,3 +50,5 @@
 [PerfectMafia Courses](https://courses.perfectmafia.com/ "PerfectMafia Courses")
 
 [Course Mafia](https://coursemafia.com/ "Course Mafia")
+
+[Course Phoenix](https://coursephoenix.com/ "Course Phoenix")
