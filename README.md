@@ -3,6 +3,8 @@
 
 [Frees Off](https://freesoff.com/ "Frees Off")
 
+[HacksNation](https://hacksnation.com/ "Hacks Nation")
+
 [Courses Hub](https://courseshub.org/ "Courses Hub")
 
 [Free Course Site](https://freecoursesite.com/ "Free Course Site")
