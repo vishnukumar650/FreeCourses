@@ -1,4 +1,3 @@
-
 # List of Free Course Sites
 
 [Frees Off](https://freesoff.com/ "Frees Off")
@@ -6,6 +5,8 @@
 [HacksNation](https://hacksnation.com/ "Hacks Nation")
 
 [OneHack](https://onehack.us/ "One Hack")
+
+[SecuHex](https://secuhex.com/ "SecuHex")
 
 [Courses Hub](https://courseshub.org/ "Courses Hub")
 
