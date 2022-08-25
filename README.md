@@ -4,6 +4,8 @@
 
 [HacksNation](https://hacksnation.com/ "Hacks Nation")
 
+[DuForum](https://duforum.in/ "DuForum")
+
 [OneHack](https://onehack.us/ "One Hack")
 
 [SecuHex](https://secuhex.com/ "SecuHex")
