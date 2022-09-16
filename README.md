@@ -12,6 +12,8 @@
 
 [FrontendFreck](https://www.frontendfreck.codes/ "Frontend Freck")
 
+[FreeCourseUniverse](https://freecourseuniverse.tech/ "Free Course Universe")
+
 [Courses Hub](https://courseshub.org/ "Courses Hub")
 
 [Free Course Site](https://freecoursesite.com/ "Free Course Site")
