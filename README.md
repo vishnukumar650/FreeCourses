@@ -10,6 +10,8 @@
 
 [SecuHex](https://secuhex.com/ "SecuHex")
 
+[FrontendFreck](https://www.frontendfreck.codes/ "Frontend Freck")
+
 [Courses Hub](https://courseshub.org/ "Courses Hub")
 
 [Free Course Site](https://freecoursesite.com/ "Free Course Site")
