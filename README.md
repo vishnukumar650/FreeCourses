@@ -1,5 +1,7 @@
 # List of Free Course Sites
 
+[PSDLY](https://www.psdly.com/ "PSDLY Free Courses")
+
 [Frees Off](https://freesoff.com/ "Frees Off")
 
 [HacksNation](https://hacksnation.com/ "Hacks Nation")
@@ -9,8 +11,6 @@
 [OneHack](https://onehack.us/ "One Hack")
 
 [SecuHex](https://secuhex.com/ "SecuHex")
-
-[FrontendFreck](https://www.frontendfreck.codes/ "Frontend Freck")
 
 [FreeCourseUniverse](https://freecourseuniverse.tech/ "Free Course Universe")
 
@@ -34,8 +34,6 @@
 
 [Online Free Course](https://www.onlinefreecourse.net/ "Online Free Course")
 
-[Course Downloader](https://coursedownloader.net/ "Course Downloader")
-
 [Desire Course](https://desirecourse.net/ "Desire Course")
 
 [Course Club](https://courseclub.me/ "Course Club")
@@ -48,17 +46,11 @@
 
 [Freedom for Learning](https://freeallcourse.com/ "Freedom for Learning")
 
-[Ultimate Course Downloader](https://uploadcenter.com/users/coursedownloader "Ultimate Course Downloader")
-
 [Free Tutorials CA](https://www.freetutorials.ca/ "Free Tutorials CA")
 
 [Learning Crux](https://www.learningcrux.com/ "Learning Crux")
 
 [TUTFLIX](https://tutflix.org/ "TUTFLIX")
-
-[Free Download Courses](https://freedownloadcourses.xyz/ "Free Download Courses")
-
-[PerfectMafia Courses](https://courses.perfectmafia.com/ "PerfectMafia Courses")
 
 [Course Mafia](https://coursemafia.com/ "Course Mafia")
 
