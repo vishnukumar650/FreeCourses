@@ -14,27 +14,25 @@
 
 [FreeCourseUniverse](https://freecourseuniverse.tech/ "Free Course Universe")
 
+[FreeCourseUniverse](https://freecourseuniverse.com/ "Free Course Universe")
+
 [Courses Hub](https://courseshub.org/ "Courses Hub")
 
 [Free Course Site](https://freecoursesite.com/ "Free Course Site")
 
-[Tuts Node](https://tutsnode.com/ "Tuts Node")
+[Tuts Node](https://tutsnode.net/ "Tuts Node")
 
 [Course Drive](https://coursedrive.org/ "Course Drive")
 
-[Free Tutorials](https://www.freetutorialsus.com/ "Free Tutorials")
-
 [Courses Daddy](http://coursesdaddy.com/ "Courses Daddy")
 
-[FTU Udemy](https://www.ftuudemy.com/ "FTU Udemy")
-
-[Free Course Lab](https://freecourselab.me/ "Free Course Lab")
+[Free Course Labs](https://freecourselabs.me/ "Free Course Labs")
 
 [Get Free Courses](https://getfreecourses.co/ "Get Free Courses")
 
 [Online Free Course](https://www.onlinefreecourse.net/ "Online Free Course")
 
-[Desire Course](https://desirecourse.net/ "Desire Course")
+[Giga Course](https://gigacourse.net/ "Giga Course")
 
 [Course Club](https://courseclub.me/ "Course Club")
 
@@ -46,15 +44,7 @@
 
 [Freedom for Learning](https://freeallcourse.com/ "Freedom for Learning")
 
-[Free Tutorials CA](https://www.freetutorials.ca/ "Free Tutorials CA")
-
-[Learning Crux](https://www.learningcrux.com/ "Learning Crux")
-
 [TUTFLIX](https://tutflix.org/ "TUTFLIX")
-
-[Course Mafia](https://coursemafia.com/ "Course Mafia")
-
-[Course Phoenix](https://coursephoenix.com/ "Course Phoenix")
 
 [Udemy Courses](https://udemycourses.me/ "Udemy Courses")
 
