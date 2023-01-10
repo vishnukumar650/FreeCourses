@@ -1,5 +1,7 @@
 # List of Free Course Sites
 
+[DOWNLOADLY](https://downloadly.ir/ "DOWNLOADLY")
+
 [PSDLY](https://www.psdly.com/ "PSDLY Free Courses")
 
 [Frees Off](https://freesoff.com/ "Frees Off")
